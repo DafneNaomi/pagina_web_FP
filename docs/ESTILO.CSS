@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(226, 163, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    width: 3rem;
+    height: 2rem;
+
+}
+
