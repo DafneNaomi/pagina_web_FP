@@ -22,9 +22,6 @@ arregloBotones.forEach((boton) =>{
         console.log(numero)
         sumar(numero)
         
-    })
-
-        
-        
+    })  
     
 })
